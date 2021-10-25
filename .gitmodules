@@ -1,0 +1,4 @@
+[submodule "data"]
+	path = data
+	url = git@github.com:CamGreg/LEDRoomControlHMI.git
+	branch  = main
